@@ -8,6 +8,7 @@ Artificial Intelligence and Data Science Student
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/karthikrajask/)
+
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I am learning hindi.
 
@@ -17,7 +18,7 @@ Artificial Intelligence and Data Science Student
 
 
 ### My Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/user6501WT?theme=unicorn&font=Montaga&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/user6501WT?theme=dark&font=Montaga&ext=heatmap)
 
 ### GitHub Activity
 ![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthikrajask&theme=dark&show_icons=true&&hide=issues,contribs)
